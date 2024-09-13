@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../toggle"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "date"
+  }
+}
